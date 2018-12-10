@@ -1,0 +1,35 @@
+*{
+    margin:0px;
+    padding:0px;
+    touch-action: none;
+}
+
+html,body{
+    height: 100%;
+}
+ul{
+    list-style: none;
+}
+.example-enter {
+    opacity: 0.01;
+    transform: translateX(-100%);
+}
+
+.example-enter.example-enter-active {
+    opacity: 1;
+    transform: translateX(0px);
+    transition: all 500ms ease-in;
+}
+
+.example-leave {
+    opacity: 1;
+    transform: translateX(0px);
+}
+
+.example-leave.example-leave-active {
+    opacity: 0.01;
+    transform: translateX(-100%);
+    transition: all 300ms ease-in;
+}
+nav{background: #e54847;height:50px; position: fixed;top:0; width: 100%;z-index:10000}
+nav p{color:#fff;text-align: center; line-height: 50px; font-size:18px;}

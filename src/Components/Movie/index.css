@@ -1,0 +1,27 @@
+.active {
+  border-bottom: 2px solid #e54847;
+  color: #e54847;
+  font-weight: bold;
+  text-decoration: none; }
+
+#playingUl {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  height: 50px; }
+
+#playingUl li {
+  float: left;
+  width: auto;
+  height: auto;
+  line-height: 50px;
+  margin: 0 10px; }
+
+#playingUl .icon-search {
+  font-size: 20px;
+  color: #e54847; }
+
+a {
+  text-decoration: none; }
+
+/*# sourceMappingURL=index.css.map */

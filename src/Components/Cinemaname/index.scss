@@ -1,0 +1,52 @@
+article #cinemaNameThree1{
+  height: 40px;
+  width: 100%;
+  text-align: center;
+  line-height: 40px;
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid #ccc;
+  position: fixed;
+  top:93px;
+  z-index:100;
+  background: #fff;
+    li{
+      float: left;
+      width: 33.3%;
+        span{
+          border-right: 1px solid #ccc;
+          padding: 0 20px;
+          display: block;
+        }
+    }
+}
+
+
+#cinemaNameList{
+  width:100%;
+  height:auto;
+  margin-top: 134px;
+    li{
+      border-bottom: 1px #ccc solid;
+        .priceSpan{
+          color:red;
+        }
+      .addr{
+        width: 285px;
+        overflow: hidden;
+        text-overflow:ellipsis;
+        white-space: nowrap;
+        display: inline-block;
+      }
+      .distance{
+        display: inline-block;
+        margin-left: 30px;
+      }
+      .room{
+        border:1px solid #589daf;
+        color: #589daf;
+        margin-left: 5px;
+        font-size: 13px;
+      }
+    }
+}

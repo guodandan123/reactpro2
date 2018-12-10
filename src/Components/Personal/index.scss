@@ -1,0 +1,89 @@
+body{background:#f3f3f3;height:90% }
+.header{
+  margin-top:50px;
+  height:150px;
+  text-align:center;
+  background:#e54847;
+  img{
+    width: 66px;
+    height: 66px;
+    margin-top: 30px;
+    border-radius: 60px;
+    border:3px solid #fff;
+  }
+  .name{
+    color: white;
+    margin-top: 7px;
+    font-size: 16px;
+    line-height: 22.5px;
+  }
+}
+.order{
+  margin-top:10px;
+  width:100%;
+  text-align: center;
+  position: relative;
+  background:#fff;
+  h4{
+    position:relative;
+    margin: 13px auto;
+    font-size: 15px;
+    line-height: 21px;
+    height: 21px;
+    color: #333;
+    z-index: 15;
+    display: inline-block;
+    width: 80px;
+    background-color: #fff;
+    font-weight: 100px;
+  }
+  .line{
+    position: absolute;
+    top: 23px;
+    left: 50%;
+    margin-left: -80px;
+    width: 160px;
+    height: 0px;
+    border:0.5px solid #ccc;
+    z-index: 10;
+  }
+  .order_list{
+    position:relative;
+    width: 100%;
+    height: 90px;
+    .film,.shop{
+      width: 50%;
+      text-align: center;
+      img{
+        width: 30px;
+        height: 30px;
+        margin-top: 10px;
+      }
+      p{font-size:16px;
+        margin-top: 8px;
+        color: #333}
+    }
+    .shop{position:absolute;
+      right: 0;
+    }
+    .film{
+      position:absolute;
+      left: 0;
+    }
+  }
+}
+.group{
+  width: 100%;
+  height: 88px;
+  background:#fff;
+  margin-top: 10px;
+  li{
+    height: 44px;
+    line-height: 44px;
+    font-size: 15px;
+    margin-left: 15px;
+    padding-right: 15px;
+    color: #333;
+    border-bottom:0.5px solid #eee;
+  }
+}

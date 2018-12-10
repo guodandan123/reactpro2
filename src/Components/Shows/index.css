@@ -1,0 +1,45 @@
+section {
+  margin-top: 50px; }
+  section .showsLeft {
+    height: 74px;
+    width: 370px;
+    padding: 20px 0 0 20px;
+    float: left;
+    display: inline;
+    position: relative; }
+    section .showsLeft h4 {
+      font-size: 17px;
+      line-height: 24px;
+      font-weight: 700;
+      color: #333;
+      width: 260px;
+      display: inline-block; }
+    section .showsLeft p {
+      margin-top: 2px;
+      font-size: 13px;
+      line-height: 18.5px;
+      color: #999;
+      width: 260px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      display: inline-block; }
+  section .place {
+    position: absolute;
+    top: 18px;
+    right: 33px;
+    border-left: 1px solid #ccc;
+    padding-left: 20px; }
+    section .place i {
+      font-size: 40px;
+      color: blue; }
+
+.space-carousel {
+  padding: 16px;
+  background: #40454d;
+  overflow: hidden; }
+
+.activeBorder {
+  border: 2px #fff solid; }
+
+/*# sourceMappingURL=index.css.map */

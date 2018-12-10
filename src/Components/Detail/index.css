@@ -1,0 +1,19 @@
+.detailFilmInfo {
+  width: 330px;
+  height: 150px;
+  padding: 19px 30px 19px 15px;
+  color: #fff;
+  background: #40454d; }
+  .detailFilmInfo dt {
+    width: 110px;
+    float: left; }
+    .detailFilmInfo dt img {
+      width: 110px;
+      height: 150px;
+      box-sizing: border-box; }
+  .detailFilmInfo dd {
+    width: 200px;
+    float: right;
+    height: 150px; }
+
+/*# sourceMappingURL=index.css.map */

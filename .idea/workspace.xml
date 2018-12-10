@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/Components/Movie/index.scss" line="15" mnemonic="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="475ec1cd-0291-4a32-9e5c-8817befefad9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Cinema/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Cinema/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Cinemaname/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Cinemaname/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Cinemaname/index.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Cinemaname/index.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Cinemaname/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Cinemaname/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Cinemaname/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Cinemaname/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Detail/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Detail/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Detail/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Detail/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Detail/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Detail/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/FilmInfo/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/FilmInfo/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Footbar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footbar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Movie/Comingsoon/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Movie/Comingsoon/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Movie/Comingsoon/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Movie/Comingsoon/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Movie/Comingsoon/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Movie/Comingsoon/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Movie/Nowplaying/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Movie/Nowplaying/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Movie/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Movie/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Navbar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Navbar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Personal/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Personal/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Personal/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Personal/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Personal/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Personal/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Shows/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Shows/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Shows/index.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Shows/index.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Shows/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Shows/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Shows/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Shows/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Redux/Reducer/comingsoonReducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Redux/Reducer/nowplayingReducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Redux/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Redux/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Routers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routers/index.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Components/Detail/index.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Components/Footbar/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Components/Cinemaname/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Components/Cinemaname/index.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Components/Shows/index.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>padding</find>
+      <find>cellSpacing</find>
+      <find>get</find>
+      <find>ShowImg</find>
+      <find>console.log</find>
+      <find>dateShow</find>
+      <find>==0</find>
+      <find>sc</find>
+      <find>class</find>
+      <find>posi</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Components/Cinema/Shows/index.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/Components/Navbar/index.scss" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/Components/Footbar/index.css" />
+        <option value="$PROJECT_DIR$/src/Components/Footbar/a.scss" />
+        <option value="$PROJECT_DIR$/src/Components/Footbar/index.scss" />
+        <option value="$PROJECT_DIR$/src/Redux/Reducer/nowplayingReducer.js" />
+        <option value="$PROJECT_DIR$/src/Redux/Reducer/comingsoonReducer.js" />
+        <option value="$PROJECT_DIR$/src/Redux/Reducer/titleReducer.js" />
+        <option value="$PROJECT_DIR$/src/Components/Movie/index.scss" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/Components/Cinema/index.scss" />
+        <option value="$PROJECT_DIR$/src/Components/FilmInfo/index.scss" />
+        <option value="$PROJECT_DIR$/src/Components/Movie/Nowplaying/index.scss" />
+        <option value="$PROJECT_DIR$/src/Components/FilmInfo/index.js" />
+        <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$PROJECT_DIR$/src/Components/Cinema/index.js" />
+        <option value="$PROJECT_DIR$/src/Components/Navbar/index.js" />
+        <option value="$PROJECT_DIR$/src/Components/Movie/index.js" />
+        <option value="$PROJECT_DIR$/src/Components/Movie/Comingsoon/index.scss" />
+        <option value="$PROJECT_DIR$/src/Components/Movie/Comingsoon/index.js" />
+        <option value="$PROJECT_DIR$/src/Components/Shows/index.js" />
+        <option value="$PROJECT_DIR$/src/Components/Movie/Nowplaying/index.js" />
+        <option value="$PROJECT_DIR$/src/Routers/index.js" />
+        <option value="$PROJECT_DIR$/src/Components/Personal/index.scss" />
+        <option value="$PROJECT_DIR$/src/Components/Personal/index.js" />
+        <option value="$PROJECT_DIR$/src/Components/Cinemaname/cinema.css" />
+        <option value="$PROJECT_DIR$/src/Components/Cinemaname/index.js" />
+        <option value="$PROJECT_DIR$/src/Components/Cinemaname/index.scss" />
+        <option value="$PROJECT_DIR$/src/Components/Detail/index.js" />
+        <option value="$PROJECT_DIR$/src/Components/Detail/index.scss" />
+        <option value="$PROJECT_DIR$/src/Components/Shows/index.scss" />
+        <option value="$PROJECT_DIR$/src/Redux/index.js" />
+        <option value="$PROJECT_DIR$/src/Components/Footbar/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-333" />
+    <option name="y" value="63" />
+    <option name="width" value="1386" />
+    <option name="height" value="594" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="maoyanfilm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maoyanfilm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maoyanfilm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maoyanfilm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maoyanfilm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maoyanfilm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maoyanfilm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maoyanfilm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Components" type="462c0819:PsiDirectoryNode" />
+              <item name="Cinemaname" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maoyanfilm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maoyanfilm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Components" type="462c0819:PsiDirectoryNode" />
+              <item name="Footbar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maoyanfilm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maoyanfilm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Redux" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maoyanfilm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maoyanfilm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Routers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/RailsInstaller/Ruby2.1.0/bin/sass.bat" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\maoyanfilm\src\Components" />
+      <recent name="E:\maoyanfilm\src" />
+      <recent name="E:\maoyanfilm\src\Components\Shows" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="475ec1cd-0291-4a32-9e5c-8817befefad9" name="Default" comment="" />
+      <created>1534120145003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534120145003</updated>
+      <workItem from="1534120147139" duration="15097000" />
+      <workItem from="1534141615330" duration="3449000" />
+      <workItem from="1534145416944" duration="1745000" />
+      <workItem from="1534147231750" duration="1621000" />
+      <workItem from="1534148878847" duration="11484000" />
+      <workItem from="1534165915453" duration="3332000" />
+      <workItem from="1534204274397" duration="2662000" />
+      <workItem from="1534206974070" duration="28082000" />
+      <workItem from="1534251801980" duration="2991000" />
+      <workItem from="1534290383892" duration="20331000" />
+      <workItem from="1534317055482" duration="4261000" />
+      <workItem from="1534321340166" duration="18000" />
+      <workItem from="1534321389934" duration="4901000" />
+      <workItem from="1534379842387" duration="11029000" />
+      <workItem from="1534395798949" duration="14683000" />
+      <workItem from="1534425607555" duration="3767000" />
+      <workItem from="1534463460895" duration="5577000" />
+      <workItem from="1534469070120" duration="6896000" />
+      <workItem from="1534481276948" duration="8987000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="150913000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17559524" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3284553" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3284553" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.47479674" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Components/Footbar/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/iconfont/demo_symbol.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/iconfont/demo_unicode.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/iconfont/iconfont.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2520" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/iconfont/demo_fontclass.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="21" column="55" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/iconfont/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2808" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/iconfont/iconfont.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3240" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Cinema/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Footbar/a.scss" />
+    <entry file="file://$PROJECT_DIR$/src/Components/Footbar/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/src/Components/Navbar/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Footbar/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/thirdStage1803/week5/day3/reactDay3_pm/test1803/src/Components/Film/Nowplaying/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/src/Components/Film/Nowplaying/index.js" />
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="19" column="64" lean-forward="true" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/FilmInfo/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Movie/Nowplaying/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Navbar/index.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Navbar/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Redux/Reducer/titleReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Movie/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Movie/Comingsoon/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Movie/Nowplaying/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Movie/Comingsoon/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="52" column="64" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/FilmInfo/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="63" column="42" lean-forward="true" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Shows/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2712">
+          <caret line="106" column="40" selection-start-line="106" selection-start-column="40" selection-end-line="106" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Movie/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Personal/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Personal/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-288" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Personal/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360">
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Cinema/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/FilmInfo/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Cinemaname/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="41" column="24" lean-forward="true" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Detail/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="33" column="15" lean-forward="true" selection-start-line="33" selection-start-column="15" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Cinemaname/cinema.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Shows/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Cinemaname/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Routers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+          <folding>
+            <element signature="e#215#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Redux/Reducer/comingsoonReducer.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Redux/Reducer/nowplayingReducer.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Redux/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Detail/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Cinema/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Cinemaname/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/Footbar/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

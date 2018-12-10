@@ -1,0 +1,56 @@
+main{
+  height:100px;
+  width: 100%;
+}
+#nav1 .swiper-slide{ width:120px; text-align: center;height:40px;line-height: 40px;}
+.activeDate{border-bottom: 2px solid #e54847}
+#timeInfo{
+  height:auto;
+  width: 100%;
+    li{
+      padding: 10px 0;
+      height:60px;
+      border-bottom: 1px #ccc solid;
+
+      .div1{
+          width:65px;
+          float:left;
+          h6{
+            font-size: 18px;
+            color: #333;
+            line-height: 1;
+            white-space: nowrap;
+          }
+          p{
+            font-size: 12px;
+            margin-top: 5px;
+          }
+        }
+      .div2{
+        width: 92px;
+        float:left;
+        margin-left: 10px;
+      }
+      .div3{
+        width: 120px;
+        float:left;
+        margin-left: 20px;
+      }
+      .div4{
+        width: 60px;
+        float:left;
+        button{
+          width: 45px;
+          height: 27px;
+          background: #e54847;
+          color: #fff;
+          border: #e54847;
+          border-radius: 5px;
+          margin-left: 20px;
+          margin-top: 20px;
+        }
+
+      }
+    }
+}
+
