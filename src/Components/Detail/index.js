@@ -45,7 +45,6 @@ class Detail extends Component{
         var newArr = str.split('');
         newArr.splice(22,3,'85.115');
         var newStr = newArr.join('');
-        // console.log(newStr);
         return newStr;
     }
 }
